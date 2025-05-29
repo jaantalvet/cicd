@@ -1,4 +1,4 @@
-package doesnotexist
+package main
 
 import (
 	"database/sql"

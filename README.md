@@ -1,4 +1,4 @@
-![CI Tests](https://github.com/jaantalvet/cicd/actions/workflows/ci/badge.svg)
+![CI Tests](https://github.com/jaantalvet/cicd/actions/workflows/ci.yml/badge.svg?branch=addtests)
 
 # learn-cicd-starter (Notely)
 

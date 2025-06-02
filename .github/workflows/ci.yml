@@ -34,5 +34,5 @@ jobs:
         with:
           go-version: "1.23.0"
 
-      - name: Print go version
-        run: go test -cover ./...
+      - name: Perform a style check
+        run: test -z $(go fmt ./...)
